@@ -9,4 +9,3 @@ My personal website, built with the Thinkspace theme.
 ## License
 
 [MIT](LICENSE.md)
->>>>>>> Stashed changes
