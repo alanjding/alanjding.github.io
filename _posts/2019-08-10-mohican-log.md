@@ -38,3 +38,5 @@ ngl this is kinda cringe
 you just got... gnomed!!!!!!
 
 tl;dr clumsy road runner gets hurt on trails and has memorable experience hd full 99% no virus guaranteed no clickbait must read be sure to like subscribe and leave a comment down below
+
+*why does github dislike vertical images??????
