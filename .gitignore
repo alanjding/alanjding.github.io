@@ -53,3 +53,10 @@ Temporary Items
 
 # Intellij-generated files
 *.iml
+
+# Boilerplate reference posts
+_posts/2015-03-20-what-is-lorem-ipsum.md
+_posts/2015-10-12-the-quick-brown-fox-jumps-over-a-lazy-dog.md
+_posts/2015-12-30-markdown-cheatsheet-demo.md
+_posts/2016-06-09-if-you-have-a-guest-post.md
+_posts/2016-06-10-how-to-download-or-use-this-theme.md

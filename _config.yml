@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Alan"
-title_right   : "Ding" # default: ""
-description   : "Lifelong student, currently one at Princeton University studying computer science."
+title_right   : " Ding" # default: ""
+description   : "Personal Site"
 keywords      : "personal, website, site, computer, science, software, developer, blog"
 url           : https://alanjding.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
