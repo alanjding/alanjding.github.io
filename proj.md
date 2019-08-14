@@ -6,9 +6,9 @@ permalink: /projects
 
 ## Personal Projects
 
-The source code for my personal projects are on [my GitHub](https://github.com/alanjding).
+The source code for these personal projects are on [my GitHub](https://github.com/alanjding).
 
-**TrainingTracker** \| Jul 2019 - Aug 2019
+**TrainingNotebook** \| Jul 2019 - Aug 2019
 
 A Jupyter Notebook that allows me to fetch and extensively analyze my running data from Strava. It can estimate acute and chronic training load as well as provide plots showing different performance metrics. The data fed into these plots can be filtered by traits such as sleep quality and motivation to run which the user provides daily to a questionnaire.
 
