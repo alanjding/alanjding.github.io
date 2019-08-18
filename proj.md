@@ -32,6 +32,6 @@ From a more computer science-oriented viewpoint, at a very high level, the Query
 
 Hacked a sloppily written program by giving it input with executable machine-language instructions inside that gets past the program's input buffer boundary and forces the program to run the user-inputted executable instructions instead of the program's own code.
 
-**Burrows-Wheeler Compression** | Algorithms and Data Structures | Princeton University
+**Burrows-Wheeler Compression** \| Algorithms and Data Structures \| Princeton University
 
 Implemented the Burrows-Wheeler data compression algorithm, which is a three-step compression algorithm (Burrows-Wheeler transform, move-to-front encoding, Huffman compression) that drastically improves upon the compression ratio of pure Huffman encoding (on the Calgary corpus, Huffman alone achieves a compression rate of 4.7 bits per character, whereas Burrows-Wheeler achieves 2.29 bits/char).
