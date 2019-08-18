@@ -26,4 +26,12 @@ Worked with a team of other interns under Agile project management on a data ana
 
 From a more computer science-oriented viewpoint, at a very high level, the Query and Usage Explorer reads in and parses XML usage data inside of CAS's distributed file system and creates a large graph (the vertices and edges kind) that can be efficiently operated on through distributed graph processing techniques.
 
-## Course Projects
+## (Selected) Course Projects
+
+**Buffer Overrun Attack** \| Introduction to Programming Systems \| Princeton University
+
+Hacked a sloppily written program by giving it input with executable machine-language instructions inside that gets past the program's input buffer boundary and forces the program to run the user-inputted executable instructions instead of the program's own code.
+
+**Burrows-Wheeler Compression** \| Algorithms and Data Structures | Princeton University
+
+Implemented the Burrows-Wheeler data compression algorithm, which is a three-step compression algorithm (Burrows-Wheeler transform, move-to-front encoding, Huffman compression) that drastically improves upon the compression ratio of pure Huffman encoding (on the Calgary corpus, Huffman alone achieves a compression rate of 4.7 bits per character, whereas Burrows-Wheeler achieves 2.29 bits/char).
