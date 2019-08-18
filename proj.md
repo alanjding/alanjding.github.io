@@ -24,4 +24,6 @@ The point of the application is to quantify the effectiveness of any training th
 
 Worked with a team of other interns under Agile project management on a data analytics platform with the ability to provide detailed, up-to-date metrics capturing a wide range of aspects about how CAS's customers are using CAS's products. The project was primarily written in Java, Scala, Python, and Groovy. It also leveraged several other industry-standard technologies including Jenkins, Docker, Maven, and Git. Using a Hadoop distributed file system paired with Apache Spark, a big data framework, the platform scales seamlessly, maintaining high performance for complex queries into aspects of the large and ever-growing usage dataset. In the end, the highly anticipated platform would give leadership and data analytics teams at CAS fresh insights on how to better tailor the user experience and performance of their products to their clients' needs.
 
+From a more computer science-oriented viewpoint, at a very high level, the Query and Usage Explorer reads in and parses XML usage data inside of CAS's distributed file system and creates a large graph (the vertices and edges kind) that can be efficiently operated on through distributed graph processing techniques.
+
 ## Course Projects
