@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Alan"
-title_right   : " Ding" # default: ""
+title_left    : "general abstract"
+title_right   : " nonsense" # default: ""
 description   : "Computer Science Student at Princeton University"
 keywords      : "personal, website, site, computer, science, software, developer, blog"
 url           : https://alanjding.github.io # site url
