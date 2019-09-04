@@ -6,6 +6,14 @@ permalink: /about/
 
 Greetings! My name is Alan Ding, and I'm a student by trade. Currently, I happen to study computer science at Princeton University. Given that I'm not grinding out problem sets and coding assignments, with p > 0.9, I'm running, doing something related to classical or jazz music, or speedsolving twisty puzzles.
 
+## Awards
+
+- American Mathematics Competition (AMC) Distinguished Honor Roll (2017)
+- USA Physics Olympiad Silver Medalist (2018)
+- National Finalist for the US National Chemistry Olympiad (2015)
+- National Merit Finalist (2018)
+- AP National Scholar (2017 - 2018)
+
 ## Timeline
 
 - **Technology Intern at CAS** \| Jun 2019 - Aug 2019 \| Columbus, OH
@@ -48,13 +56,6 @@ through giving various science demonstrations
 
   - Assisted guests with questions about the museum’s offerings,
 directions, recommendations, among other inquiries
-
-## Awards
-- American Mathematics Competition (AMC) Distinguished Honor Roll (2017)
-- USA Physics Olympiad Silver Medalist (2018)
-- National Finalist for the US National Chemistry Olympiad (2015)
-- National Merit Finalist (2018)
-- AP National Scholar (2017 - 2018)
 
 ## Skills
 
